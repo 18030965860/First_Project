@@ -1,7 +1,9 @@
-# 这是一个<h6>标题，他是最小的 # 
-###  ###
-##   ##
-#####   #####
+# 这是一个标题，他是最小的
+## 
+### 
+#### 
+##### 
+###### 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
